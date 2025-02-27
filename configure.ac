@@ -256,11 +256,6 @@ curlytx/meta/Makefile
 curlytx/po/Makefile
 curlytx/src/Makefile
 
-dreamexplorer/Makefile
-dreamexplorer/meta/Makefile
-dreamexplorer/src/Makefile
-dreamexplorer/src/res/Makefile
-
 dreamirc/Makefile
 dreamirc/meta/Makefile
 dreamirc/src/Makefile
