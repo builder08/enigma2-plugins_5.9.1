@@ -17,7 +17,6 @@ SUBDIRS = \
 	cdinfo \
 	channelselectionshorttitle \
 	curlytx \
-	dreamexplorer \
 	dreamirc \
 	dreammediathek \
 	dvdbackup \
